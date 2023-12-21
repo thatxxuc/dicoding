@@ -124,7 +124,7 @@ with st.sidebar:
     
      # Menambahkan logo perusahaan
     st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
-    st.write('Copyright (C) © 2023 by Haidar ')
+    st.write('Copyright (C) © 2023 by dicoding ')
     # Define the URL and link text
     url = "https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing"
     link_text = "Visit Dicoding dataset"
