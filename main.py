@@ -127,7 +127,7 @@ with st.sidebar:
     st.write('Copyright (C) © 2023 by Haidar ')
     # Define the URL and link text
     url = "https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing"
-    link_text = "Visit Kaggle Dataset "
+    link_text = "Visit Dicoding dataset"
 
     # Create the link
     st.write('E-Commerce Public Dataset')
