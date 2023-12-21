@@ -122,15 +122,15 @@ def create_rfm(df):
 
 with st.sidebar:
     
-    # Menambahkan logo perusahaan
+     # Menambahkan logo perusahaan
     st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
     st.write('Copyright (C) © 2023 by Haidar ')
     # Define the URL and link text
-    url = "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
+    url = "https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing"
     link_text = "Visit Kaggle Dataset "
 
     # Create the link
-    st.write('Brazilian E-Commerce Public Dataset')
+    st.write('E-Commerce Public Dataset')
     st.write(f"[{link_text}]({url})")
     
     
